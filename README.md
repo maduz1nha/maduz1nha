@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil no github 👋
+### Olá, eu sou a Maria Eduarda, seja bem vindo ao meu perfil no github 👋
 ![image](https://github.com/maduz1nha/maduz1nha/assets/165913465/5dcc167d-ed95-409c-9de0-854b1c93446e)
 
 (https://github.com/maduz1nha).
