@@ -16,4 +16,9 @@
 - 📫 como me contatar: mariaeduardatelesmiranda@gmail.com
 - 😄 Pronomes: Ela/Dela
 
+- ## Me encontre
+<div>
+  <a href=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mariaeduardatelesmiranda@gmail.com)>
+</div>
+  
 
