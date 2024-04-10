@@ -7,18 +7,13 @@
   <img height="120em" src=https://github-readme-stats.vercel.app/api?username=maduz1nha&show_icons=true&theme=dark&include_alla_commits=true&count_private=true/>
   <img height="120em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=maduz1nha&layout=compact&langs_count=16&theme=dark/>
 <div> 
-  <a href="https://instagram.com/mar1aa_eduarda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-</div>
-
 
 
 - 🌱 atualmente estou estudando front end 
 - 📫 como me contatar: mariaeduardatelesmiranda@gmail.com
 - 😄 Pronomes: Ela/Dela
 
-- ## Me encontre
-<div>
-  <a href=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mariaeduardatelesmiranda@gmail.com)>
-</div>
+
+
   
 
